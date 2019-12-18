@@ -1,0 +1,11 @@
+C:\Users\413-4\Documents\GitHub\Lab3\Filter\Filter\bin\Debug\netcoreapp2.1\Filter.deps.json
+C:\Users\413-4\Documents\GitHub\Lab3\Filter\Filter\bin\Debug\netcoreapp2.1\Filter.runtimeconfig.json
+C:\Users\413-4\Documents\GitHub\Lab3\Filter\Filter\bin\Debug\netcoreapp2.1\Filter.runtimeconfig.dev.json
+C:\Users\413-4\Documents\GitHub\Lab3\Filter\Filter\bin\Debug\netcoreapp2.1\Filter.dll
+C:\Users\413-4\Documents\GitHub\Lab3\Filter\Filter\bin\Debug\netcoreapp2.1\Filter.pdb
+C:\Users\413-4\Documents\GitHub\Lab3\Filter\Filter\obj\Debug\netcoreapp2.1\Filter.csprojAssemblyReference.cache
+C:\Users\413-4\Documents\GitHub\Lab3\Filter\Filter\obj\Debug\netcoreapp2.1\Filter.csproj.CoreCompileInputs.cache
+C:\Users\413-4\Documents\GitHub\Lab3\Filter\Filter\obj\Debug\netcoreapp2.1\Filter.AssemblyInfoInputs.cache
+C:\Users\413-4\Documents\GitHub\Lab3\Filter\Filter\obj\Debug\netcoreapp2.1\Filter.AssemblyInfo.cs
+C:\Users\413-4\Documents\GitHub\Lab3\Filter\Filter\obj\Debug\netcoreapp2.1\Filter.dll
+C:\Users\413-4\Documents\GitHub\Lab3\Filter\Filter\obj\Debug\netcoreapp2.1\Filter.pdb
