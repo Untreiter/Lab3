@@ -1,0 +1,11 @@
+C:\Users\413-4\Documents\GitHub\Lab3\SearchMax\SearchMax\bin\Debug\netcoreapp2.1\SearchMax.deps.json
+C:\Users\413-4\Documents\GitHub\Lab3\SearchMax\SearchMax\bin\Debug\netcoreapp2.1\SearchMax.runtimeconfig.json
+C:\Users\413-4\Documents\GitHub\Lab3\SearchMax\SearchMax\bin\Debug\netcoreapp2.1\SearchMax.runtimeconfig.dev.json
+C:\Users\413-4\Documents\GitHub\Lab3\SearchMax\SearchMax\bin\Debug\netcoreapp2.1\SearchMax.dll
+C:\Users\413-4\Documents\GitHub\Lab3\SearchMax\SearchMax\bin\Debug\netcoreapp2.1\SearchMax.pdb
+C:\Users\413-4\Documents\GitHub\Lab3\SearchMax\SearchMax\obj\Debug\netcoreapp2.1\SearchMax.csprojAssemblyReference.cache
+C:\Users\413-4\Documents\GitHub\Lab3\SearchMax\SearchMax\obj\Debug\netcoreapp2.1\SearchMax.csproj.CoreCompileInputs.cache
+C:\Users\413-4\Documents\GitHub\Lab3\SearchMax\SearchMax\obj\Debug\netcoreapp2.1\SearchMax.AssemblyInfoInputs.cache
+C:\Users\413-4\Documents\GitHub\Lab3\SearchMax\SearchMax\obj\Debug\netcoreapp2.1\SearchMax.AssemblyInfo.cs
+C:\Users\413-4\Documents\GitHub\Lab3\SearchMax\SearchMax\obj\Debug\netcoreapp2.1\SearchMax.dll
+C:\Users\413-4\Documents\GitHub\Lab3\SearchMax\SearchMax\obj\Debug\netcoreapp2.1\SearchMax.pdb
