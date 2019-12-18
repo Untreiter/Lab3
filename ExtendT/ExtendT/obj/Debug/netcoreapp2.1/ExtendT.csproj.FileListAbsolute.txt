@@ -1,0 +1,11 @@
+C:\Users\413-4\Documents\GitHub\Lab3\ExtendT\ExtendT\bin\Debug\netcoreapp2.1\ExtendT.deps.json
+C:\Users\413-4\Documents\GitHub\Lab3\ExtendT\ExtendT\bin\Debug\netcoreapp2.1\ExtendT.runtimeconfig.json
+C:\Users\413-4\Documents\GitHub\Lab3\ExtendT\ExtendT\bin\Debug\netcoreapp2.1\ExtendT.runtimeconfig.dev.json
+C:\Users\413-4\Documents\GitHub\Lab3\ExtendT\ExtendT\bin\Debug\netcoreapp2.1\ExtendT.dll
+C:\Users\413-4\Documents\GitHub\Lab3\ExtendT\ExtendT\bin\Debug\netcoreapp2.1\ExtendT.pdb
+C:\Users\413-4\Documents\GitHub\Lab3\ExtendT\ExtendT\obj\Debug\netcoreapp2.1\ExtendT.csprojAssemblyReference.cache
+C:\Users\413-4\Documents\GitHub\Lab3\ExtendT\ExtendT\obj\Debug\netcoreapp2.1\ExtendT.csproj.CoreCompileInputs.cache
+C:\Users\413-4\Documents\GitHub\Lab3\ExtendT\ExtendT\obj\Debug\netcoreapp2.1\ExtendT.AssemblyInfoInputs.cache
+C:\Users\413-4\Documents\GitHub\Lab3\ExtendT\ExtendT\obj\Debug\netcoreapp2.1\ExtendT.AssemblyInfo.cs
+C:\Users\413-4\Documents\GitHub\Lab3\ExtendT\ExtendT\obj\Debug\netcoreapp2.1\ExtendT.dll
+C:\Users\413-4\Documents\GitHub\Lab3\ExtendT\ExtendT\obj\Debug\netcoreapp2.1\ExtendT.pdb
